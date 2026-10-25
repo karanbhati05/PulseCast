@@ -1,0 +1,8 @@
+{
+  "Forecast MAE": 49.96,
+  "Seasonal baseline MAE": 74.02,
+  "Rolling validation MAE": 51.72,
+  "Recall@5": 0.539,
+  "Popularity Recall@5": 0.167,
+  "Scheduled minutes": 120
+}
